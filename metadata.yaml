@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36072'
     url: http://www.gutenberg.org/2009/agents/36072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32841#The-Laird-o-Coul-s-Ghost
 gutenberg_issued: '2010-06-16'
 gutenberg_type: Text
 identifiers:
