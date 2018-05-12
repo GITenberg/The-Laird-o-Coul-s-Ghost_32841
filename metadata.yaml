@@ -1,0 +1,26 @@
+_repo: The-Laird-o-Coul-s-Ghost_32841
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32841-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Ogilvie, William
+    birthdate: 1688
+    deathdate: 1729
+    gutenberg_agent_id: '36072'
+    url: http://www.gutenberg.org/2009/agents/36072
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32841'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts'
+- !lcc 'BF'
+title: The Laird o' Coul's Ghost
+url: http://www.gutenberg.org/ebooks/32841
